@@ -20,6 +20,7 @@ The following terms should be the very first part of every commit title. Example
 
 ### Commit Scopes
 Scopes are optionally put after a commit tag. Example: `feat(api): add 2fa endpoint`
+
 **Common Scopes**
 - `api` - website api
 - `client` - user-run application
